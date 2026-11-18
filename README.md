@@ -1,5 +1,7 @@
 Online Retail Sales Analysis
 
+ ![Online Retail Sales Dashboard](online-retail-dashboard.png)
+
 Project Overview
 
 This project analyzes an online retail dataset to understand sales performance, customer purchasing behaviour, product performance, and country-wise revenue.

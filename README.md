@@ -1,6 +1,6 @@
 Online Retail Sales Analysis
 
- ![Online Retail Sales Dashboard](online-retail-dashboard.png)
+ ![Online Retail Sales Dashboard](online_retail_Sales_dashboard.png)
 
 Project Overview
 

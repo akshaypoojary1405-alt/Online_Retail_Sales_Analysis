@@ -2,6 +2,14 @@ Online Retail Sales Analysis
 
  ![Online Retail Sales Dashboard](Online_Retail_Sale_Dashboard.png)
 
+ ## Cleaned Dataset
+
+The cleaned dataset is available in this repository.
+
+File: [Online Retail Cleaned Dataset](Online_Retail_Sales_Cleaned.zip)
+
+Format: ZIP (contains the cleaned dataset).
+
 Project Overview
 
 This project analyzes an online retail dataset to understand sales performance, customer purchasing behaviour, product performance, and country-wise revenue.
